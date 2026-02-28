@@ -9,7 +9,7 @@
         <samp>
                 「 I'm a software developer from <b>China</b> 」
                 <br>
-                「 Focused on cloud native and os, especially unikernel</b> 」
+                「 Focused on Large Language Model (LLM) inference</b> 」
                 <br>
                 <br>
         </samp>
